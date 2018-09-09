@@ -1,6 +1,3 @@
-"# Heart" 
-"# HeartDiseaseDetection" 
-
 Dependencies: Python 3.6.5, Tensorflow 1.8.0rc0, pydicom 1.0.2, scipy 1.0.1, opencv-python 3.4.0.12, scikit-learn 0.19.1, numpy 1.4.2, scipy 1.0.1
 
 Import the project directory into your IDE. Install all the dependencies. Make sure you import the whole project and not just the 
