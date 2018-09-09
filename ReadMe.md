@@ -26,4 +26,4 @@ The first number is the diastole model r2_score
 The second number is the systole model r2_score
 
 
-
+Other large files and training data: https://drive.google.com/open?id=1wdNrruNRjYJLK_c_HyDdGm6Csba6Hujh
